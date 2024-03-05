@@ -1,0 +1,23 @@
+h1{
+    background-color: blueviolet;
+    color: brown;
+    text-align: center;
+}
+div{
+    height: 200px;
+    background-color: darkturquoise;
+    width: 200px;
+    margin-left: 43%;
+    border-radius: 50%;
+}
+button{
+    margin-left: 48%;
+    margin-top: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: lightsalmon;
+    color: black;
+}
+body{
+    background-color: black;
+}

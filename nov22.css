@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+
+}
+div{
+    background-color: brown;
+    width: 40%;
+    height: 200px;
+}
+span{
+    background-color: chocolate;
+    width: 50%;
+    height: 300px;
+}
+.manisha{
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+}
+p{
+    background-color: blue;
+    font-size: large;
+     color: brown;
+}
+#unique{
+    background-color: crimson;
+    
+}
+#r{
+    color: red;
+}
+#b{
+    color: blue;
+}
+#y{
+    color: yellow;
+}
